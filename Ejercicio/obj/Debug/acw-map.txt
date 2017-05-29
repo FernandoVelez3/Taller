@@ -1,0 +1,4 @@
+Ejercicio.MainActivity, Ejercicio;md55388536876972efcae820ef0c06fc199.MainActivity
+Ejercicio.MainActivity, Ejercicio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55388536876972efcae820ef0c06fc199.MainActivity
+Ejercicio.MainActivity;md55388536876972efcae820ef0c06fc199.MainActivity
+ejercicio.MainActivity;md55388536876972efcae820ef0c06fc199.MainActivity
